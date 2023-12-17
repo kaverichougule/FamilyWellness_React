@@ -7,11 +7,11 @@ function Header(){
                 <p>MASSAGE THERAPY</p>
             </div>
             <nav>
-                <a href="#" className="hoverEff active">Home</a>
-                <a href="#" className="hoverEff">About</a>
-                <a href="#" className="hoverEff">Services</a>
+                <a href="#" className="hoverEff active">HOME</a>
+                <a href="#" className="hoverEff">ABOUT</a>
+                <a href="#" className="hoverEff">SERVICES</a>
                 <a href="#" className="hoverEff">FAQ</a>
-                <a href="#" className="hoverEff">Contact</a>
+                <a href="#" className="hoverEff">CONTACT</a>
             </nav>
         </header>
     );

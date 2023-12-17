@@ -12,6 +12,23 @@
     height: 65vh;
 
 }
+.imageContainer{
+    position: relative;
+}
+.icons{
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    display: flex;
+    gap: 2rem;
+    color: white;
+}
+.icons i{
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 .section1{
     width: 100%;
@@ -54,6 +71,9 @@ button{
     padding: 1rem;
     width: 18%;
     font-size: 1rem;
+}
+button:hover{
+    background-color: #ec3d7b;
 }
 .section2, .subsection{
     padding: 1rem 4rem ;

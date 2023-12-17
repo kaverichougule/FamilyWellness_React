@@ -6,6 +6,10 @@ function Body(){
         <div className="container">
             <div className="imageContainer">
                 <img src={image1} alt="Family" className="bodyImg" />
+                <div className="icons">
+                    <i class="fa-solid fa-chevron-left"></i>
+                    <i class="fa-solid fa-chevron-right"></i>
+                </div>
             </div>
             
             <div className="section1">
